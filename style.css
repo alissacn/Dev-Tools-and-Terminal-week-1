@@ -1,0 +1,55 @@
+.subtitle {
+  color: salmon;
+  padding-bottom: 10px;
+}
+
+.title {
+  color: black;
+}
+
+#cat {
+  border-radius: 140px;
+  padding: 20px;
+  width: 200px;
+}
+
+.big {
+  font-size: 1.5em;
+}
+
+body {
+  text-align: center;
+  padding: 0;
+}
+
+#container {
+  width: 100%;
+  margin-left: auto;
+  border: 1px solid black;
+  border-top: 10px solid purple;
+}
+
+#official-info {
+  width: 50%;
+  height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-left: 25%;
+  padding: 6px;
+}
+
+.image-box {
+  width: 120px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 6px rigden black;
+}
+
+.parents {
+  color: salmon;
+}
+
+.list-left > li {
+  padding-bottom: 10px;
+  text-align: left;
+}
