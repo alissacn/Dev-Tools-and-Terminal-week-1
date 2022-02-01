@@ -1,1 +1,1 @@
-This project is about how to care your cat.
+This project is about how to care for your cat.
